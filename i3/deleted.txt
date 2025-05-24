@@ -1,0 +1,5 @@
+exec_always --no-startup-id $HOME/.config/polybar/launch.shexec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
+; bar {
+;         status_command polybar
+; }
